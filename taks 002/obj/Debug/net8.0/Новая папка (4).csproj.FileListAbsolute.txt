@@ -1,0 +1,14 @@
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\bin\Debug\net8.0\Новая папка (4).exe
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\bin\Debug\net8.0\Новая папка (4).deps.json
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\bin\Debug\net8.0\Новая папка (4).runtimeconfig.json
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\bin\Debug\net8.0\Новая папка (4).dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\bin\Debug\net8.0\Новая папка (4).pdb
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).AssemblyInfoInputs.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).AssemblyInfo.cs
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\refint\Новая папка (4).dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).pdb
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\Новая папка (4).genruntimeconfig.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\Новая папка (4)\obj\Debug\net8.0\ref\Новая папка (4).dll
